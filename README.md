@@ -33,5 +33,8 @@ make
 4. Hold Volume Down + Volume Up + Mute buttons while powering on the Nest Hub
 5. Once CHIPICOPWN logo appears on screen, replace the Raspberry Pico with USB flash drive
 
+<img width="1240" alt="immagine" src="https://github.com/user-attachments/assets/b6687a55-031b-4992-9b0d-a43af93aa4b5" />
+
+
 ## license
 - [Logo CHIPICOPWN](./CHIPICOPWN.BMP) : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - created by [HotPot.ai](https://hotpot.ai/s/art-maker/328/yAUpI4GK9kpwlksMAXlQqzEbplOV)
